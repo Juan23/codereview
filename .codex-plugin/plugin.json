@@ -1,0 +1,10 @@
+{
+  "name": "codereview",
+  "version": "1.0.0",
+  "description": "On-demand, read-only correctness review skill.",
+  "homepage": "https://github.com/Juan23/codereview",
+  "repository": "https://github.com/Juan23/codereview",
+  "author": { "name": "Juan Montano", "url": "https://github.com/Juan23" },
+  "license": "UNLICENSED",
+  "skills": "./skills/"
+}
