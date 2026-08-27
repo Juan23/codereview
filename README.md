@@ -1,3 +1,3 @@
-# Review Skills
+# Codereview
 
-This is a standalone plugin package for [github.com/Juan23/codereview](https://github.com/Juan23/codereview). Install it as a marketplace/plugin, then invoke `$codereview` explicitly for a one-shot pass. It is read-only, has no machine-global toggle, and never imposes a per-task gate.
+Standalone unabridged port of the original JM `engineering-bar` skill. Install this plugin and invoke `$engineering-bar` as documented; its original invocation and behavior are preserved.
